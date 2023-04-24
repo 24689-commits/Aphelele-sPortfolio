@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+/* Universal Selector */
+*::Before,
+ ::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Root */
+:root{
+    --primaryColor:black;
+    --secondaryColor: white;
+    --alternativeColor:gray;
+    --borderColor:#12834b;
+    font-family: 'Regular 400','Cinzel', serif; */
+    /* --homeBg : rgb(187, 100, 100);
+    --green: green; */
+
+
+
+}
+/* Logo */
+#logo{
+    width: 6rem;
+}
